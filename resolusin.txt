@@ -2,3 +2,5 @@ Resolusi
 -WPM diatas 100
 -Penguasaan javascript
 -website yang menampung informasi yang banyak manfaat
+-CIDERA note
+
